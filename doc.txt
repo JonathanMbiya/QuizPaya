@@ -1,0 +1,11 @@
+Amelioration jeu quiz des pays et capuals:
+1. faire en sorte que a chaque fois qu'on genere les pays pour chaque niveau ne soietnt pas aligner de la meme facon
+2. inserer les pays de chaque niveau dans une liste ou dans un dictionnaire pour que chaque pays ait comme cle sa capital
+	en verifiant la reponse le pays  doit etre egale a sa capital ou vice versa
+3. utiliser une boucle for qui generer le nombre aleatoire a chaue execution de la fonction qui va pracouru les element du tableau 
+	d'une maniere aleatoire et genere un pays a trouver la capital 
+4. faire une interface graphique 
+
+
+
+jeu quiz drapeau pays
